@@ -50,6 +50,7 @@
 		"@tldraw/store": "workspace:*",
 		"@tldraw/tlschema": "workspace:*",
 		"@tldraw/utils": "workspace:*",
+		"@tldraw/primitives": "^2.0.0-alpha.2",
 		"@tldraw/validate": "workspace:*",
 		"@types/core-js": "^2.5.5",
 		"@use-gesture/react": "^10.2.27",
